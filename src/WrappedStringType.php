@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace LazyLemurs\DoctrineStructuresTypes;
+namespace Venomousboy\DoctrineStructuresTypes;
 
 use Venomousboy\Structures\WrappedString;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
